@@ -1,0 +1,21 @@
+{
+  "icon" : "\uD83D\uDC3B",
+  "weight" : 500,
+  "maximumWeight" : 500,
+  "dailyWeightLoss" : 1.5,
+  "dailyNeededFood" : 80,
+  "maxAmountPerCell" : 5,
+  "couldPassCellsPerMove" : 2,
+  "eatingMap" : {
+    "BOA" : 80,
+    "HORSE": 40,
+    "DEER": 80,
+    "RABBIT": 80,
+    "MOUSE": 90,
+    "GOAT": 70,
+    "SHEEP": 70,
+    "BOAR": 50,
+    "BUFFALO": 20,
+    "DUCK" : 10
+  }
+}

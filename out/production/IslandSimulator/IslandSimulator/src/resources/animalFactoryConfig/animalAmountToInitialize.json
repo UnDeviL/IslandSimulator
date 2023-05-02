@@ -1,0 +1,20 @@
+{
+  "countAnimal" : {
+    "WOLF" : 2,
+    "BOA" : 2,
+    "FOX" : 2,
+    "BEAR" : 2,
+    "EAGLE" : 2,
+    "DEER" : 2,
+    "RABBIT" : 2,
+    "MOUSE" : 2,
+    "GOAT" : 2,
+    "SHEEP" : 2,
+    "BOAR" : 2,
+    "BUFFALO" : 2,
+    "HORSE": 2,
+    "DUCK" : 15,
+    "CATERPILLAR" : 2
+  }
+}
+

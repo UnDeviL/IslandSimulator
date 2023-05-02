@@ -1,0 +1,15 @@
+{
+  "icon" : "\uD83D\uDC0D",
+  "weight" : 15,
+  "maximumWeight" : 15,
+  "dailyWeightLoss" : 1.5,
+  "dailyNeededFood" : 3,
+  "maxAmountPerCell" : 30,
+  "couldPassCellsPerMove" : 1,
+  "eatingMap" : {
+    "FOX" : 15,
+    "RABBIT" : 20,
+    "MOUSE" : 40,
+    "DUCK" : 10
+  }
+}

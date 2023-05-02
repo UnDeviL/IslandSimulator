@@ -1,0 +1,9 @@
+{
+  "icon" :  "\uD83D\uDC07",
+  "weight" : 2,
+  "maximumWeight" : 2,
+  "dailyWeightLoss" : 0.2,
+  "dailyNeededFood" : 0.45,
+  "maxAmountPerCell" : 150,
+  "couldPassCellsPerMove" : 2
+}

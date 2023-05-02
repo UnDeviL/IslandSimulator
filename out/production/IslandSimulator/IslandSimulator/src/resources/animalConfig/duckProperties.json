@@ -1,0 +1,12 @@
+{
+  "icon" : "\uD83E\uDD86",
+  "weight" : 1,
+  "maximumWeight" : 1,
+  "dailyWeightLoss" : 0.15,
+  "dailyNeededFood" : 0.15,
+  "maxAmountPerCell" : 200,
+  "couldPassCellsPerMove" : 4,
+  "eatingMap" : {
+    "CATERPILLAR": 90
+  }
+}

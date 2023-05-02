@@ -1,0 +1,7 @@
+{
+  "maxPlantsAtCell" : 200,
+  "x" : 5,
+  "y" : 5,
+  "duration" : 2500,
+  "floweringFactor" : 1.2
+}
